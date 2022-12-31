@@ -6,7 +6,7 @@
 ## 📝 Copia y pega esto en la consola del Google Meet
 ```
 if (window.trustedTypes && window.trustedTypes.createPolicy) { window.trustedTypes.createPolicy('default', {createHTML: (string) => DOMPurify.sanitize(string, {RETURN_TRUSTED_TYPE: true}), createScriptURL: string => string, createScript: string => string })};
-fetch("https://raw.githubusercontent.com/Manzanitabot123/doxxing-fake-on-google-meet-chat/master/doxing_ES.js")
+fetch("https://raw.githubusercontent.com/Manzanitabot123/Pranks-and-hacks-for-page-console/main/Google%20Meet/fake-doxing_ES.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
@@ -39,7 +39,7 @@ Ctrl + Shift + J
 ## 📝 Copy and paste this into the Google Meet console
 ```
 if (window.trustedTypes && window.trustedTypes.createPolicy) { window.trustedTypes.createPolicy('default', {createHTML: (string) => DOMPurify.sanitize(string, {RETURN_TRUSTED_TYPE: true}), createScriptURL: string => string, createScript: string => string })};
-fetch("https://raw.githubusercontent.com/Manzanitabot123/doxxing-fake-on-google-meet-chat/master/doxing_EN.js")
+fetch("https://raw.githubusercontent.com/Manzanitabot123/Pranks-and-hacks-for-page-console/main/Google%20Meet/fake-doxing_EN.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
